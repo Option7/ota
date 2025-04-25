@@ -1,0 +1,16 @@
+{
+  "Configurations": [
+    {
+      "Board": "ESP32_DEV",
+      "Config": "16MB",
+      "Version": "2.0.0",
+      "URL": "https://example.com/myimages/example.esp32_dev.16MB.v2.bin"
+    },
+    {
+      "Board": "ESP32_DEV",
+      "Config": "4MB",
+      "Version": "2.0.0",
+      "URL": "https://example.com/myimages/example.esp32_dev.4MB.v2.bin"
+    }
+  ]
+}
