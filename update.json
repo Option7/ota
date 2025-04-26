@@ -1,16 +1,10 @@
 {
-  "Configurations": [
-    {
-      "Board": "ESP32_DEV",
-      "Config": "16MB",
-      "Version": "2.0.0",
-      "URL": "https://github.com/Option7/ota/blob/main/blink.ino.lilygo_t_display.bin"
-    },
-    {
-      "Board": "ESP32_DEV",
-      "Config": "4MB",
-      "Version": "2.0.0",
-      "URL": "https://github.com/Option7/ota/blob/main/blink.ino.lilygo_t_display.bin"
+   "Configurations": [
+     {
+       "Board": "LILYGO_T_DISPLAY",
+       "Device": "30:C9:22:F1:77:84",
+       "Version": "1.0.0",
+       "URL": "https://github.com/Option7/ota/blob/main/update.json"
     }
-  ]
-}
+   ]
+ }
